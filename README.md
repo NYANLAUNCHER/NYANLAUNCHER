@@ -6,3 +6,4 @@
     - Email: **purcellmarkie@gmail.com**
     - Matrix: **@nyan_launcher:matrix.org**
     - Mastodon: **https://mastodon.social/@NYANLAUNCHER**
+   - Monero: 42pNXpnRDoqCATD5Z3tdQoZuab5TBPSZsQmXbLi24AqhBaCSuR4A6zfXoK8nJWBWJCZGg8JBBMMa6CgntwxKKrAVUsk9ZAD
