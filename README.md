@@ -3,7 +3,7 @@
   - 🌱 I’m currently learning c, rust, zig, lua, and linux.
   - I also happen to not like finishing projects
   - 📫 How to reach me:
-    - Email: **purcellmarkie@gmail.com**
+    - Email: **purcellmarkie@proton.me**, **purcellmarkie@gmail.com**
     - Matrix: **@nyan_launcher:matrix.org**
     - Mastodon: **https://mastodon.social/@NYANLAUNCHER**
    - Monero: *42pNXpnRDoqCATD5Z3tdQoZuab5TBPSZsQmXbLi24AqhBaCSuR4A6zfXoK8nJWBWJCZGg8JBBMMa6CgntwxKKrAVUsk9ZAD*
